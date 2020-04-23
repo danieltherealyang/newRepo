@@ -1,5 +1,5 @@
 
-package tri1f;
+package newRepo.src.tri1f;
 
 public class FibMVC {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package tri1f;
+package newRepo.src.tri1f;
 
 import java.awt.Color;
 import java.awt.Container;

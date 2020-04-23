@@ -1,4 +1,4 @@
-package tri1f;
+package newRepo.src.tri1f;
 
 import java.awt.BorderLayout;
 import java.awt.EventQueue;

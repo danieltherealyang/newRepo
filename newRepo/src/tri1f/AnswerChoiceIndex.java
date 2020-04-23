@@ -1,4 +1,4 @@
-package tri1f;
+package newRepo.src.tri1f;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;

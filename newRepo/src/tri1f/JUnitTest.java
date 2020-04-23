@@ -1,4 +1,4 @@
-package tri1f;
+package newRepo.src.tri1f;
 
 import static org.junit.jupiter.api.Assertions.*;
 

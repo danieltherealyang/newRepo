@@ -1,4 +1,4 @@
-package tri1f;
+package newRepo.src.tri1f;
 
 public class ReverseString {
     static String reverseString(String string)

@@ -1,4 +1,4 @@
-package tri1f;
+package newRepo.src.tri1f;
 
 import java.util.Iterator;
 import java.util.LinkedList;
